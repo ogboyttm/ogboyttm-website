@@ -1,0 +1,12 @@
+media:
+  - name: images
+    label: Images
+    input: public/images
+    output: /images
+
+content:
+  - name: songs
+    label: Songs
+    type: file
+    path: content/songs.json
+    format: json
