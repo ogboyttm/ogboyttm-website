@@ -1,0 +1,1 @@
+OG boy TTM website + Pages CMS starter. Upload the CONTENTS of this folder to the root of your GitHub repository (not the ZIP itself). Then connect the same repository to Netlify for automatic deploys. Pages CMS uses .pages.yml to edit site.json, music.json, videos.json and gallery.json. Media uploaded in Pages CMS is stored in /media.
